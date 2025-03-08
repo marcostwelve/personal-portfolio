@@ -1,6 +1,6 @@
 {
   "name": "Maurício Marcelino",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/94411600?v=4",
   "job": "Desenvolvedor Fullstack",
   "location": "São Paulo - SP",
   "phone": "(11) 988054-1071",
@@ -8,11 +8,11 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "dotNet",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
