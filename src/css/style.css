@@ -5,6 +5,7 @@
 @import './portfolio.css';
 @import 'experience.css';
 @import './skills.css';
+@import './footer.css';
 
 :root {
     --openSans: 'Open Sans', sans-serif;
